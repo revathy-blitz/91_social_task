@@ -1,0 +1,13 @@
+npm-debug.log
+node_modules/
+.next
+*-error.log
+*lock.babelrcon
+package-lock.json
+sampleDB.json
+.idea/
+.env
+.vscode/
+.DS_Store
+/public/sw.js
+files/
