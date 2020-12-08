@@ -5,5 +5,5 @@ ENVs
 ```sh
 PORT=<port>
 
-API_BASE_URL=<API_BASE_URL>
+API_BASE_URL=https://api.spacexdata.com
 ```
